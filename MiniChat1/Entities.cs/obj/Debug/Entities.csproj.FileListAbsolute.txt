@@ -1,0 +1,40 @@
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.dll.config
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.dll
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.pdb
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.Properties.Resources.resources
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.csproj.GenerateResource.Cache
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.dll
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.pdb
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\bin\Debug\Entities.dll.config
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\bin\Debug\Entities.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\bin\Debug\Entities.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\obj\Debug\Entities.Properties.Resources.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\obj\Debug\Entities.csproj.GenerateResource.Cache
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\obj\Debug\Entities.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Entities.cs\obj\Debug\Entities.pdb
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.dll.config
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.dll
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.pdb
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.Properties.Resources.resources
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.csproj.GenerateResource.Cache
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.dll
+D:\Projects\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.dll.config
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\bin\Debug\Entities.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.Properties.Resources.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.csproj.GenerateResource.Cache
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Entities.cs\obj\Debug\Entities.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\bin\Debug\Entities.dll.config
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\bin\Debug\Entities.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\bin\Debug\Entities.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\obj\Debug\Entities.Properties.Resources.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\obj\Debug\Entities.csproj.GenerateResource.Cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\obj\Debug\Entities.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Entities.cs\obj\Debug\Entities.pdb

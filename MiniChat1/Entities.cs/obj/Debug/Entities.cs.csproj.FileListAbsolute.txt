@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MiniChat\Entities.cs\bin\Debug\Entities.cs.dll
+C:\Users\user\Desktop\MiniChat\Entities.cs\bin\Debug\Entities.cs.pdb
+C:\Users\user\Desktop\MiniChat\Entities.cs\obj\Debug\Entities.cs.dll
+C:\Users\user\Desktop\MiniChat\Entities.cs\obj\Debug\Entities.cs.pdb
+C:\Users\user\Desktop\MiniChat\Entities.cs\obj\Debug\Entities.cs.csprojResolveAssemblyReference.cache
+I:\MiniChat\Entities.cs\bin\Debug\Entities.cs.dll
+I:\MiniChat\Entities.cs\bin\Debug\Entities.cs.pdb
+I:\MiniChat\Entities.cs\obj\Debug\Entities.cs.csprojResolveAssemblyReference.cache
+I:\MiniChat\Entities.cs\obj\Debug\Entities.cs.dll
+I:\MiniChat\Entities.cs\obj\Debug\Entities.cs.pdb
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.cs.csprojResolveAssemblyReference.cache
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.cs.dll.config
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.cs.dll
+D:\Projects\MiniChat\Entities.cs\bin\Debug\Entities.cs.pdb
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.cs.dll
+D:\Projects\MiniChat\Entities.cs\obj\Debug\Entities.cs.pdb

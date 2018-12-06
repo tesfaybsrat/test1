@@ -1,0 +1,20 @@
+C:\Users\Pantelis\Documents\SerialPortDisplay\bin\Debug\SerialPortDisplay.exe
+C:\Users\Pantelis\Documents\SerialPortDisplay\bin\Debug\SerialPortDisplay.pdb
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortDisplay.csproj.GenerateResource.Cache
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortDisplay.exe
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortDisplay.pdb
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortExample.Form1.resources
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortExample.Properties.Resources.resources
+C:\Users\Pantelis\Documents\SerialPortDisplay\obj\Debug\SerialPortSample.serialPortSettingsControl.resources
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortDisplay.exe
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortDisplay.pdb
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\bin\Debug\SerialPortDisplay.exe
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\bin\Debug\SerialPortDisplay.pdb
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortExample.Form1.resources
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortExample.Properties.Resources.resources
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortSample.serialPortSettingsControl.resources
+C:\Users\Tesfay Bsrat\Downloads\Compressed\C#\SerialPortDisplay\obj\Debug\SerialPortDisplay.csproj.GenerateResource.Cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\SerialPortDisplay\SerialPortDisplay\obj\Debug\SerialPortDisplay.exe
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\SerialPortDisplay\SerialPortDisplay\obj\Debug\SerialPortDisplay.pdb

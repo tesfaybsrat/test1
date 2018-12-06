@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Best.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Comport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Com1</Value>
+    </Setting>
+    <Setting Name="Boudrate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="Databit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="Stopbit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Three</Value>
+    </Setting>
+    <Setting Name="Paritybit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Odd</Value>
+    </Setting>
+    <Setting Name="Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">title name</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

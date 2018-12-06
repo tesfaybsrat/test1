@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\bin\Debug\Event_delegate.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\bin\Debug\Event_delegate.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\bin\Debug\Event_delegate.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\obj\Debug\Event_delegate.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\obj\Debug\Event_delegate.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Event_delegate\Event_delegate\obj\Debug\Event_delegate.pdb

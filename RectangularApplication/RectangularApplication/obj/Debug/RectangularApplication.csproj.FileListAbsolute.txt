@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\bin\Debug\RectangularApplication.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\obj\Debug\RectangularApplication.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\bin\Debug\RectangularApplication.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\bin\Debug\RectangularApplication.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\obj\Debug\RectangularApplication.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\RectangularApplication\RectangularApplication\obj\Debug\RectangularApplication.pdb

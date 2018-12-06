@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\bin\Debug\delegateEX1.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\bin\Debug\delegateEX1.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\bin\Debug\delegateEX1.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\obj\Debug\delegateEX1.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\obj\Debug\delegateEX1.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\delegateEX1\delegateEX1\obj\Debug\delegateEX1.pdb

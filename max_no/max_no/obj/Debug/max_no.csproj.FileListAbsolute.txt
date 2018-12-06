@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\bin\Debug\max_no.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\bin\Debug\max_no.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\bin\Debug\max_no.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\obj\Debug\max_no.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\obj\Debug\max_no.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\max_no\max_no\obj\Debug\max_no.pdb

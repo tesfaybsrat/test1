@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\bin\Debug\System.IO.Ports.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\bin\Debug\System.IO.Ports.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\bin\Debug\System.IO.Ports.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\obj\Debug\System.IO.Ports.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\obj\Debug\System.IO.Ports.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\System.IO.Ports\System.IO.Ports\obj\Debug\System.IO.Ports.pdb

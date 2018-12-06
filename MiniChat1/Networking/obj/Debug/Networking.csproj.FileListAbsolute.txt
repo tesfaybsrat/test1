@@ -1,0 +1,47 @@
+C:\Users\user\Desktop\MiniChat\Networking\bin\Debug\Networking.dll
+C:\Users\user\Desktop\MiniChat\Networking\bin\Debug\Networking.pdb
+C:\Users\user\Desktop\MiniChat\Networking\obj\Debug\Networking.dll
+C:\Users\user\Desktop\MiniChat\Networking\obj\Debug\Networking.pdb
+C:\Users\user\Desktop\MiniChat\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+I:\MiniChat\Networking\bin\Debug\Networking.dll
+I:\MiniChat\Networking\bin\Debug\Networking.pdb
+I:\MiniChat\Networking\bin\Debug\Entities.cs.dll
+I:\MiniChat\Networking\bin\Debug\Entities.cs.pdb
+I:\MiniChat\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+I:\MiniChat\Networking\obj\Debug\Networking.dll
+I:\MiniChat\Networking\obj\Debug\Networking.pdb
+D:\Projects\MiniChat\Networking\bin\Debug\Networking.dll
+D:\Projects\MiniChat\Networking\bin\Debug\Networking.pdb
+D:\Projects\MiniChat\Networking\bin\Debug\Entities.dll
+D:\Projects\MiniChat\Networking\bin\Debug\Entities.pdb
+D:\Projects\MiniChat\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+D:\Projects\MiniChat\Networking\obj\Debug\Networking.dll
+D:\Projects\MiniChat\Networking\obj\Debug\Networking.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\bin\Debug\Networking.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\bin\Debug\Networking.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\bin\Debug\Entities.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\bin\Debug\Entities.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\obj\Debug\Networking.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\Networking\obj\Debug\Networking.pdb
+D:\Projects\Training for new Comers\MiniChat1\Networking\bin\Debug\Networking.dll
+D:\Projects\Training for new Comers\MiniChat1\Networking\bin\Debug\Networking.pdb
+D:\Projects\Training for new Comers\MiniChat1\Networking\bin\Debug\Entities.dll
+D:\Projects\Training for new Comers\MiniChat1\Networking\bin\Debug\Entities.pdb
+D:\Projects\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+D:\Projects\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.dll
+D:\Projects\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\bin\Debug\Networking.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\bin\Debug\Networking.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\bin\Debug\Entities.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\bin\Debug\Entities.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\Networking\obj\Debug\Networking.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\bin\Debug\Networking.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\bin\Debug\Networking.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\bin\Debug\Entities.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\bin\Debug\Entities.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\obj\Debug\Networking.csprojResolveAssemblyReference.cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\obj\Debug\Networking.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\Networking\obj\Debug\Networking.pdb

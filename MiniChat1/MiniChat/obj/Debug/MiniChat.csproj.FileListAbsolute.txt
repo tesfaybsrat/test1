@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\MiniChat\MiniChat\bin\Debug\MiniChat.exe
+C:\Users\user\Desktop\MiniChat\MiniChat\bin\Debug\MiniChat.pdb
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.Form1.resources
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.Properties.Resources.resources
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.exe
+C:\Users\user\Desktop\MiniChat\MiniChat\obj\Debug\MiniChat.pdb

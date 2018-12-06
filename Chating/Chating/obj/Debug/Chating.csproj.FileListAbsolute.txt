@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\bin\Debug\Chating.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\obj\Debug\Chating.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\bin\Debug\Chating.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\bin\Debug\Chating.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\obj\Debug\Chating.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\Chating\Chating\obj\Debug\Chating.pdb

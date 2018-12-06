@@ -1,0 +1,5 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\UdpserverTestprogram\UdpserverTestprogram\bin\Debug\UdpserverTestprogram.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\UdpserverTestprogram\UdpserverTestprogram\bin\Debug\UdpserverTestprogram.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\UdpserverTestprogram\UdpserverTestprogram\bin\Debug\UdpserverTestprogram.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\UdpserverTestprogram\UdpserverTestprogram\obj\Debug\UdpserverTestprogram.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\UdpserverTestprogram\UdpserverTestprogram\obj\Debug\UdpserverTestprogram.pdb

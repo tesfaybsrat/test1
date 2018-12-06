@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\bin\Debug\ConsoleUdp.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\bin\Debug\ConsoleUdp.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\bin\Debug\ConsoleUdp.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\obj\Debug\ConsoleUdp.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\obj\Debug\ConsoleUdp.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\ConsoleUdp\ConsoleUdp\obj\Debug\ConsoleUdp.pdb

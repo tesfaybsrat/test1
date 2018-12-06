@@ -1,0 +1,6 @@
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.exe.config
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.csprojResolveAssemblyReference.cache
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\bin\Debug\DelegateAppl.pdb
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.exe
+c:\users\tesfay bsrat\documents\visual studio 2015\Projects\DelegateAppl\DelegateAppl\obj\Debug\DelegateAppl.pdb

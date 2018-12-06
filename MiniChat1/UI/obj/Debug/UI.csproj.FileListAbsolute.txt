@@ -1,0 +1,121 @@
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.StatusIndicator.resources
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MiniChat\UI\bin\Debug\UI.exe
+C:\Users\user\Desktop\MiniChat\UI\bin\Debug\UI.pdb
+C:\Users\user\Desktop\MiniChat\UI\bin\Debug\Entities.cs.dll
+C:\Users\user\Desktop\MiniChat\UI\bin\Debug\Entities.cs.pdb
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.exe
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.pdb
+C:\Users\user\Desktop\MiniChat\UI\obj\Debug\UI.Form1.resources
+I:\MiniChat\UI\obj\Debug\UI.exe
+I:\MiniChat\UI\obj\Debug\UI.pdb
+I:\MiniChat\UI\bin\Debug\UI.exe
+I:\MiniChat\UI\bin\Debug\UI.pdb
+I:\MiniChat\UI\bin\Debug\Networking.dll
+I:\MiniChat\UI\bin\Debug\Networking.pdb
+I:\MiniChat\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+I:\MiniChat\UI\obj\Debug\UI.Form1.resources
+I:\MiniChat\UI\obj\Debug\UI.Properties.Resources.resources
+I:\MiniChat\UI\obj\Debug\UI.StatusIndicator.resources
+I:\MiniChat\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\MiniChat\UI\obj\Debug\UI.exe
+E:\MiniChat\UI\obj\Debug\UI.pdb
+I:\MiniChat\UI\bin\Debug\UI.exe.config
+I:\MiniChat\UI\bin\Debug\Entities.dll
+I:\MiniChat\UI\bin\Debug\Entities.pdb
+I:\MiniChat\UI\obj\Debug\UI.ChatBallon.resources
+I:\MiniChat\UI\obj\Debug\UI.frmChatWindow.resources
+I:\MiniChat\UI\obj\Debug\UI.frmMain.resources
+I:\MiniChat\UI\obj\Debug\UI.frmSettings.resources
+D:\Projects\MiniChat\UI\bin\Debug\UI.exe.config
+D:\Projects\MiniChat\UI\bin\Debug\UI.exe
+D:\Projects\MiniChat\UI\bin\Debug\UI.pdb
+D:\Projects\MiniChat\UI\bin\Debug\Entities.dll
+D:\Projects\MiniChat\UI\bin\Debug\Networking.dll
+D:\Projects\MiniChat\UI\bin\Debug\Entities.pdb
+D:\Projects\MiniChat\UI\bin\Debug\Networking.pdb
+D:\Projects\MiniChat\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projects\MiniChat\UI\obj\Debug\UI.Form1.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.ChatBallon.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.frmChatWindow.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.frmMain.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.frmSettings.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.StatusIndicator.resources
+D:\Projects\MiniChat\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Projects\MiniChat\UI\obj\Debug\UI.exe
+D:\Projects\MiniChat\UI\obj\Debug\UI.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\UI.exe.config
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.exe
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\UI.exe
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\UI.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\Entities.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\Networking.dll
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\Entities.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\bin\Debug\Networking.pdb
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.Form1.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.ChatBallon.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.frmChatWindow.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.frmMain.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.frmSettings.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.Properties.Resources.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.StatusIndicator.resources
+E:\mvc.net\Learn MVC 5 in 2 days\Angular 2\MiniChat\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\UI.exe.config
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.exe
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.pdb
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\UI.exe
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\UI.pdb
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\Entities.dll
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\Networking.dll
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\Entities.pdb
+D:\Projects\Training for new Comers\MiniChat1\UI\bin\Debug\Networking.pdb
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.Form1.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.ChatBallon.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmChatWindow.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmMain.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmSettings.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.StatusIndicator.resources
+D:\Projects\Training for new Comers\MiniChat1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\UI.exe.config
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.exe
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\UI.exe
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\UI.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\Entities.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\Networking.dll
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\Entities.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\bin\Debug\Networking.pdb
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.Form1.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.ChatBallon.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmChatWindow.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmMain.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.frmSettings.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.StatusIndicator.resources
+C:\Users\Dawit\Desktop\Training for new Comers\MiniChat1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\UI.exe.config
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.exe
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\UI.exe
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\UI.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\Entities.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\Networking.dll
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\Entities.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\bin\Debug\Networking.pdb
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.Form1.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.ChatBallon.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.frmChatWindow.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.frmMain.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.frmSettings.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.StatusIndicator.resources
+C:\Users\Tesfay Bsrat\Documents\Visual Studio 2015\Projects\MiniChat1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
